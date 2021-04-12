@@ -16,7 +16,6 @@ So apparently refs call fouls in the NBA. This was actually done '*on time*', lo
 
 The original data set can be found here on [data.world](https://data.world/makeovermonday/2021w15).
 
-
 ## Dry Beans
 
 *April 9th, 2021*
@@ -32,3 +31,4 @@ Fitting for my first try, this topic seems a bit dull. I do like beans, certainl
 > Images of 13,611 grains of 7 different registered dry beans were taken with a high-resolution camera. A total of 16 features; 12 dimensions and 4 shape forms, were obtained from the grains.
 
 *KOKLU, M. and OZKAN, I.A., (2020), “Multiclass Classification of Dry Beans Using Computer Vision and Machine Learning Techniques.” Computers and Electronics in Agriculture, 174, 105507. DOI: [https://doi.org/10.1016/j.compag.2020.105507](https://doi.org/10.1016/j.compag.2020.105507)*
+
