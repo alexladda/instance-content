@@ -2,6 +2,23 @@
 
 *These are the times when I've participated in [Makeover Mondays](https://www.makeovermonday.co.uk). It is a format where every Sunday a Dataset is published. On Monday anyone can visualise that Data and turn it in via twitter with [#makeovermonday](https://twitter.com/hashtag/MakeoverMonday)*
 
+
+
+## Pandemic Airtravel
+
+*April 23th, 2021*
+
+This Dataset comprised 20 years of flights into and out of US territory. This is limited to just domestic US travel. To get the Location Data the destination codes were (inner) joined with their respective locations from [The Global Airport Database](https://www.partow.net/miscellaneous/airportdatabase/index.html).
+
+<div class="h_iframe">
+  <iframe
+      src="https://public.tableau.com/views/PANDEMICAIRTRAVEL/PandemicAirtravel?:language=en-GB&:display_count=y&:origin=viz_share_link">
+  </iframe>
+</div>
+
+The original data set can be found here on [data.world](https://data.world/makeovermonday/2021w16).
+
+
 ## NBA stats
 
 *April 12th, 2021*
@@ -31,4 +48,3 @@ Fitting for my first try, this topic seems a bit dull. I do like beans, certainl
 > Images of 13,611 grains of 7 different registered dry beans were taken with a high-resolution camera. A total of 16 features; 12 dimensions and 4 shape forms, were obtained from the grains.
 
 *KOKLU, M. and OZKAN, I.A., (2020), “Multiclass Classification of Dry Beans Using Computer Vision and Machine Learning Techniques.” Computers and Electronics in Agriculture, 174, 105507. DOI: [https://doi.org/10.1016/j.compag.2020.105507](https://doi.org/10.1016/j.compag.2020.105507)*
-
