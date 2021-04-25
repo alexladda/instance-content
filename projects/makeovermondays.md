@@ -3,7 +3,7 @@
 *These are the times when I've participated in [Makeover Mondays](https://www.makeovermonday.co.uk). It is a format where every Sunday a Dataset is published. On Monday anyone can visualise that Data and turn it in via twitter with [#makeovermonday](https://twitter.com/hashtag/MakeoverMonday)*
 
 
-
+<span id="pandemic-airtravel"></span>
 ## Pandemic Airtravel
 
 *April 23th, 2021*
@@ -18,7 +18,7 @@ This Dataset comprises 20 years of flights into and out of US territory. This is
 
 The original data set can be found here on [data.world](https://data.world/makeovermonday/2021w16).
 
-
+<span id="nba-stats"></span>
 ## NBA stats
 
 *April 12th, 2021*
@@ -32,6 +32,7 @@ So apparently refs call fouls in the NBA. This was actually done '*on time*', th
 
 The original data set can be found here on [data.world](https://data.world/makeovermonday/2021w15).
 
+<span id="dry-beans"></span>
 ## Dry Beans
 
 *April 9th, 2021*
