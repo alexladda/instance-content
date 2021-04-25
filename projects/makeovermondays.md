@@ -8,13 +8,13 @@
 
 *April 23th, 2021*
 
-This Dataset comprised 20 years of flights into and out of US territory. This is limited to just domestic US travel. To get the Location Data the destination codes were (inner) joined with their respective locations from [The Global Airport Database](https://www.partow.net/miscellaneous/airportdatabase/index.html).
+This Dataset comprises 20 years of flights into and out of US territory. This is limited to just domestic US travel. To get the Location Data the destination codes were (inner) joined with their respective locations from [The Global Airport Database](https://www.partow.net/miscellaneous/airportdatabase/index.html).
 
-<div class="h_iframe">
-  <iframe
-      src="https://public.tableau.com/views/PANDEMICAIRTRAVEL/PandemicAirtravel?:language=en-GB&:display_count=y&:origin=viz_share_link">
-  </iframe>
-</div>
+
+<a
+    href="https://public.tableau.com/views/PANDEMICAIRTRAVEL/PandemicAirtravel?:language=en-GB&:display_count=y&:origin=viz_share_link">
+<img class="has_shadow" src="/static/pandemic-airtravel.webp">
+</a>
 
 The original data set can be found here on [data.world](https://data.world/makeovermonday/2021w16).
 
@@ -23,13 +23,12 @@ The original data set can be found here on [data.world](https://data.world/makeo
 
 *April 12th, 2021*
 
-So apparently refs call fouls in the NBA. This was actually done '*on time*', lower table is accessed via API, the second one utilises a pivot of a local copy.
+So apparently refs call fouls in the NBA. This was actually done '*on time*', the upper table is accessed via the data.world API, the second one utilises a pivot of a local copy.
 
-<div class="h_iframe">
-  <iframe
-      src="https://public.tableau.com/views/2015W15_NBA_refs/NBAfouls?:language=en-GB&:display_count=y&:origin=viz_share_link">
-  </iframe>
-</div>
+<a
+    href="https://public.tableau.com/views/2015W15_NBA_refs/NBAfouls?:language=en-GB&:display_count=y&:origin=viz_share_link">
+<img class="has_shadow" src="/static/nba-refs-screenshot.webp">
+</a>
 
 The original data set can be found here on [data.world](https://data.world/makeovermonday/2021w15).
 
@@ -39,11 +38,10 @@ The original data set can be found here on [data.world](https://data.world/makeo
 
 Fitting for my first try, this topic seems a bit dull. I do like beans, certainly not dry though. I was late to the party anyways.
 
-<div class="h_iframe">
-  <iframe
-      src="https://public.tableau.com/views/DryBeans_16179588717950/DryBeans?:language=en-GB&:display_count=y&publish=yes&:origin=viz_share_link">
-  </iframe>
-</div>
+<a
+    href="https://public.tableau.com/views/DryBeans_16179588717950/DryBeans?:language=en-GB&:display_count=y&publish=yes&:origin=viz_share_link">
+<img class="has_shadow" src="/static/dry-beans-screenshot.webp">
+</a>
 
 > Images of 13,611 grains of 7 different registered dry beans were taken with a high-resolution camera. A total of 16 features; 12 dimensions and 4 shape forms, were obtained from the grains.
 
