@@ -1,6 +1,6 @@
 # Makeover Monday
 
-*These are the times when I've participated in [Makeover Mondays](https://www.makeovermonday.co.uk). It is a format where every Sunday a Dataset is published. On Monday anyone can visualise that Data and turn it in via twitter with [#makeovermonday](https://twitter.com/hashtag/MakeoverMonday)*
+*These are the times when I've participated in [Makeover Mondays](https://www.makeovermonday.co.uk). It is a format where every Sunday a dataset is published. On Monday anyone can visualise that data and turn it in via twitter with [#makeovermonday](https://twitter.com/hashtag/MakeoverMonday)*
 
 [WEEK 16 - **Pandemic Airtravel**](#pandemic-airtravel)  
 [WEEK 15 - **NBA stats**](#nba-stats)  
@@ -11,7 +11,7 @@
 
 *April 23th, 2021*
 
-This Dataset comprises 20 years of flights into and out of US territory. This is limited to just domestic US travel. To get the Location Data the destination codes were (inner) joined with their respective locations from [The Global Airport Database](https://www.partow.net/miscellaneous/airportdatabase/index.html).
+This dataset comprises 20 years of flights into and out of US territory. This is limited to just domestic US travel. To get the location data the destination codes were (inner) joined with their respective locations from [The Global Airport Database](https://www.partow.net/miscellaneous/airportdatabase/index.html).
 
 
 <a
@@ -26,7 +26,7 @@ The original data set can be found here on [data.world](https://data.world/makeo
 
 *April 12th, 2021*
 
-So apparently refs call fouls in the NBA. This was actually done '*on time*', the upper table is accessed via the data.world API, the second one utilises a pivot of a local copy.
+So apparently refs call fouls in the NBA. The upper table is accessed via the data.world API, the second one utilises a pivot of a local copy.
 
 <a
     href="https://public.tableau.com/views/2015W15_NBA_refs/NBAfouls?:language=en-GB&:display_count=y&:origin=viz_share_link">
