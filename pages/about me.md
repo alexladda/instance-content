@@ -35,11 +35,9 @@
   </li>
 </ul>
 
-
-*Hi this is me. I've always loved building cool things, and I've went to build literal houses. Then I started building ideas for houses. After a decade of amazing projects, I came to a moment to reevaluate my current trajectory.*
+*Hi this is me. I've always loved building cool things, and went on to build literal houses. Then I started building ideas for houses. After a decade of amazing projects, I am now on a different trajectory.* 
 
 The true constant that was always the driver for my passion was the idea that there are superordinate things to learn from whatever you're currently engaged with. I learned a lot about business, about people, about how this world works.
 
-I felt the needed to step back for a just a tiny bit to see a bigger picture, to see clearly, to find somewhere where I can still build things, but can also learn a whole lot. 
+I felt the needed to step back for a just a tiny bit to see a bigger picture, to see clearly, to find somewhere where I can still build things, but can also learn a whole lot. I committed to learning everything I could about machine learning, data science, and the tech industry.
 
-I committed to learning everything I could about machine learning, data science, and the tech industry.
