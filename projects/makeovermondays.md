@@ -2,6 +2,9 @@
 
 *These are the times when I've participated in [Makeover Mondays](https://www.makeovermonday.co.uk). It is a format where every Sunday a Dataset is published. On Monday anyone can visualise that Data and turn it in via twitter with [#makeovermonday](https://twitter.com/hashtag/MakeoverMonday)*
 
+[WEEK 16 - **Pandemic Airtravel**](#pandemic-airtravel)  
+[WEEK 15 - **NBA stats**](#nba-stats)  
+[WEEK 14 - **dry beans**](#dry-beans)  
 
 <span id="pandemic-airtravel"></span>
 ## Pandemic Airtravel
