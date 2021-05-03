@@ -2,9 +2,25 @@
 
 *These are the times when I've participated in [Makeover Mondays](https://www.makeovermonday.co.uk). It is a format where every Sunday a dataset is published. On Monday anyone can visualise that data and turn it in via twitter with [#makeovermonday](https://twitter.com/hashtag/MakeoverMonday)*
 
+
+[WEEK 17 - **US Price Parity**](#us-price-parity)  
 [WEEK 16 - **Pandemic Airtravel**](#pandemic-airtravel)  
 [WEEK 15 - **NBA stats**](#nba-stats)  
 [WEEK 14 - **dry beans**](#dry-beans)  
+
+<span id="us-price-parity"></span>
+## US Price Parity
+
+*May 3rd, 2021*
+
+Once again humbling to see [Andy Kriebel](https://www.youtube.com/channel/UCTlX7UpqASrldmx5_CpG3CA) wrestle with this very slim data set.
+
+<a
+    href="https://public.tableau.com/views/2021W17_US_Price_Parity/Dashboard1?:language=en-GB&:display_count=y&publish=yes&:origin=viz_share_link">
+<img class="has_shadow" src="/static/mom-us-price-parity.webp">
+</a>
+
+The original data set can be found here on [data.world](https://data.world/makeovermonday/2021w17).
 
 <span id="pandemic-airtravel"></span>
 ## Pandemic Airtravel
